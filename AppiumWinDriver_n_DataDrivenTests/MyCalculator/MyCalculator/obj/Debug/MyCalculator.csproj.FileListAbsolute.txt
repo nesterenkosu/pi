@@ -17,3 +17,13 @@ D:\Lect\20201106_PI\MyCalculator\MyCalculator\obj\Debug\MyCalculator.csproj.Gene
 D:\Lect\20201106_PI\MyCalculator\MyCalculator\obj\Debug\MyCalculator.csproj.CoreCompileInputs.cache
 D:\Lect\20201106_PI\MyCalculator\MyCalculator\obj\Debug\MyCalculator.exe
 D:\Lect\20201106_PI\MyCalculator\MyCalculator\obj\Debug\MyCalculator.pdb
+D:\Lect\20201106_PI\111\pi\AppiumWinDriver_n_DataDrivenTests\MyCalculator\MyCalculator\bin\Debug\MyCalculator.exe.config
+D:\Lect\20201106_PI\111\pi\AppiumWinDriver_n_DataDrivenTests\MyCalculator\MyCalculator\bin\Debug\MyCalculator.exe
+D:\Lect\20201106_PI\111\pi\AppiumWinDriver_n_DataDrivenTests\MyCalculator\MyCalculator\bin\Debug\MyCalculator.pdb
+D:\Lect\20201106_PI\111\pi\AppiumWinDriver_n_DataDrivenTests\MyCalculator\MyCalculator\obj\Debug\MyCalculator.csprojAssemblyReference.cache
+D:\Lect\20201106_PI\111\pi\AppiumWinDriver_n_DataDrivenTests\MyCalculator\MyCalculator\obj\Debug\MyCalculator.Form1.resources
+D:\Lect\20201106_PI\111\pi\AppiumWinDriver_n_DataDrivenTests\MyCalculator\MyCalculator\obj\Debug\MyCalculator.Properties.Resources.resources
+D:\Lect\20201106_PI\111\pi\AppiumWinDriver_n_DataDrivenTests\MyCalculator\MyCalculator\obj\Debug\MyCalculator.csproj.GenerateResource.cache
+D:\Lect\20201106_PI\111\pi\AppiumWinDriver_n_DataDrivenTests\MyCalculator\MyCalculator\obj\Debug\MyCalculator.csproj.CoreCompileInputs.cache
+D:\Lect\20201106_PI\111\pi\AppiumWinDriver_n_DataDrivenTests\MyCalculator\MyCalculator\obj\Debug\MyCalculator.exe
+D:\Lect\20201106_PI\111\pi\AppiumWinDriver_n_DataDrivenTests\MyCalculator\MyCalculator\obj\Debug\MyCalculator.pdb

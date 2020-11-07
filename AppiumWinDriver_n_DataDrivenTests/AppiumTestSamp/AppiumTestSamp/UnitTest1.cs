@@ -33,6 +33,7 @@ namespace AppiumTestSamp
             var desiredCapabilities = new AppiumOptions();
 
             //Прописывание пути к тестируемому приложению
+            //ВНИМАНИЕ! Укажите АБСОЛЮТНЫЙ путь к ФАКТИЧЕСКОМУ расположению exe-файла на ВАШЕМ диске
             desiredCapabilities.AddAdditionalCapability("app", @"D:\Lect\20201106_PI\MyCalculator\MyCalculator\bin\Debug\MyCalculator.exe");
 
             //Инициализация интерфейсной переменной (собственно запуск библиотеки)
@@ -82,7 +83,7 @@ namespace AppiumTestSamp
 
         //Строка соединения с базой данных. 
         //ВНИМАНИЕ! Укажите АБСОЛЮТНЫЙ путь к ФАКТИЧЕСКОМУ расположению базы данных на ВАШЕМ диске
-        [DataSource(@"Provider=Microsoft.Jet.OLEDB.4.0;Data Source=D:\Lect\20201106_PI\AppiumTestSamp\tests.mdb", "mytests")]
+        [DataSource(@"Provider=Microsoft.Jet.OLEDB.4.0;Data Source=D:\Lect\20201106_PI\111\pi\AppiumWinDriver_n_DataDrivenTests\AppiumTestSamp\tests.mdb", "mytests")]
         [TestMethod]
         public void DataDriven()
         {
