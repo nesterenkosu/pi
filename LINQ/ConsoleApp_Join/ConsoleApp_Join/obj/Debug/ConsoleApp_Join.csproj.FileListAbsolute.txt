@@ -1,0 +1,7 @@
+D:\Lect\20201204_PI_LINQ\ConsoleApp_Join\ConsoleApp_Join\bin\Debug\ConsoleApp_Join.exe.config
+D:\Lect\20201204_PI_LINQ\ConsoleApp_Join\ConsoleApp_Join\bin\Debug\ConsoleApp_Join.exe
+D:\Lect\20201204_PI_LINQ\ConsoleApp_Join\ConsoleApp_Join\bin\Debug\ConsoleApp_Join.pdb
+D:\Lect\20201204_PI_LINQ\ConsoleApp_Join\ConsoleApp_Join\obj\Debug\ConsoleApp_Join.csproj.CoreCompileInputs.cache
+D:\Lect\20201204_PI_LINQ\ConsoleApp_Join\ConsoleApp_Join\obj\Debug\ConsoleApp_Join.exe
+D:\Lect\20201204_PI_LINQ\ConsoleApp_Join\ConsoleApp_Join\obj\Debug\ConsoleApp_Join.pdb
+D:\Lect\20201204_PI_LINQ\ConsoleApp_Join\ConsoleApp_Join\obj\Debug\ConsoleApp_Join.csprojAssemblyReference.cache

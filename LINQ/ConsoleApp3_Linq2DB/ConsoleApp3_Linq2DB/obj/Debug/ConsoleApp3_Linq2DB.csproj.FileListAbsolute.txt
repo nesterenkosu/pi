@@ -1,0 +1,9 @@
+D:\Lect\20201204_PI_LINQ\ConsoleApp3_Linq2DB\ConsoleApp3_Linq2DB\obj\Debug\ConsoleApp3_Linq2DB.csprojAssemblyReference.cache
+D:\Lect\20201204_PI_LINQ\ConsoleApp3_Linq2DB\ConsoleApp3_Linq2DB\obj\Debug\ConsoleApp3_Linq2DB.csproj.CoreCompileInputs.cache
+D:\Lect\20201204_PI_LINQ\ConsoleApp3_Linq2DB\ConsoleApp3_Linq2DB\bin\Debug\Database1.mdf
+D:\Lect\20201204_PI_LINQ\ConsoleApp3_Linq2DB\ConsoleApp3_Linq2DB\bin\Debug\Database1_log.ldf
+D:\Lect\20201204_PI_LINQ\ConsoleApp3_Linq2DB\ConsoleApp3_Linq2DB\bin\Debug\ConsoleApp3_Linq2DB.exe.config
+D:\Lect\20201204_PI_LINQ\ConsoleApp3_Linq2DB\ConsoleApp3_Linq2DB\bin\Debug\ConsoleApp3_Linq2DB.exe
+D:\Lect\20201204_PI_LINQ\ConsoleApp3_Linq2DB\ConsoleApp3_Linq2DB\bin\Debug\ConsoleApp3_Linq2DB.pdb
+D:\Lect\20201204_PI_LINQ\ConsoleApp3_Linq2DB\ConsoleApp3_Linq2DB\obj\Debug\ConsoleApp3_Linq2DB.exe
+D:\Lect\20201204_PI_LINQ\ConsoleApp3_Linq2DB\ConsoleApp3_Linq2DB\obj\Debug\ConsoleApp3_Linq2DB.pdb

@@ -1,0 +1,7 @@
+D:\Lect\20201204_PI_LINQ\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\Lect\20201204_PI_LINQ\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\Lect\20201204_PI_LINQ\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\Lect\20201204_PI_LINQ\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+D:\Lect\20201204_PI_LINQ\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Lect\20201204_PI_LINQ\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\Lect\20201204_PI_LINQ\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

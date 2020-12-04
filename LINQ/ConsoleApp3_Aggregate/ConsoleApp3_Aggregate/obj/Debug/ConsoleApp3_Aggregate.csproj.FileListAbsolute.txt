@@ -1,0 +1,6 @@
+D:\Lect\20201204_PI_LINQ\ConsoleApp3_Aggregate\ConsoleApp3_Aggregate\bin\Debug\ConsoleApp3_Aggregate.exe.config
+D:\Lect\20201204_PI_LINQ\ConsoleApp3_Aggregate\ConsoleApp3_Aggregate\bin\Debug\ConsoleApp3_Aggregate.exe
+D:\Lect\20201204_PI_LINQ\ConsoleApp3_Aggregate\ConsoleApp3_Aggregate\bin\Debug\ConsoleApp3_Aggregate.pdb
+D:\Lect\20201204_PI_LINQ\ConsoleApp3_Aggregate\ConsoleApp3_Aggregate\obj\Debug\ConsoleApp3_Aggregate.csproj.CoreCompileInputs.cache
+D:\Lect\20201204_PI_LINQ\ConsoleApp3_Aggregate\ConsoleApp3_Aggregate\obj\Debug\ConsoleApp3_Aggregate.exe
+D:\Lect\20201204_PI_LINQ\ConsoleApp3_Aggregate\ConsoleApp3_Aggregate\obj\Debug\ConsoleApp3_Aggregate.pdb
