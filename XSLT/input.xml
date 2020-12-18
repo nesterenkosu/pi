@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="list_if.xsl"?>
+<ListEmployee>
+	<Employee type="personal">
+		<FirstName>James</FirstName>
+		<LastName>Bond</LastName>
+		<E-Mail>bond@yandex.ru</E-Mail>
+	</Employee>
+	<Employee type="personal">
+		<FirstName>Winnie</FirstName>
+		<LastName>Pooh</LastName>
+		<E-Mail>bear@google.com</E-Mail>
+	</Employee>
+	<Employee type="boss">
+		<FirstName>Big</FirstName>
+		<LastName>Bucks</LastName>
+		<E-Mail>bb@google.com</E-Mail>
+	</Employee>
+</ListEmployee>
