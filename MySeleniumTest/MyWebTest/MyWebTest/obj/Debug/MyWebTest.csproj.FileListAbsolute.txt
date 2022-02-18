@@ -1,0 +1,17 @@
+D:\Lect\20210130\MySeleniumTest\MyWebTest\MyWebTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Lect\20210130\MySeleniumTest\MyWebTest\MyWebTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Lect\20210130\MySeleniumTest\MyWebTest\MyWebTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Lect\20210130\MySeleniumTest\MyWebTest\MyWebTest\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+D:\Lect\20210130\MySeleniumTest\MyWebTest\MyWebTest\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+D:\Lect\20210130\MySeleniumTest\MyWebTest\MyWebTest\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Lect\20210130\MySeleniumTest\MyWebTest\MyWebTest\bin\Debug\MyWebTest.dll
+D:\Lect\20210130\MySeleniumTest\MyWebTest\MyWebTest\bin\Debug\MyWebTest.pdb
+D:\Lect\20210130\MySeleniumTest\MyWebTest\MyWebTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Lect\20210130\MySeleniumTest\MyWebTest\MyWebTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Lect\20210130\MySeleniumTest\MyWebTest\MyWebTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Lect\20210130\MySeleniumTest\MyWebTest\MyWebTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Lect\20210130\MySeleniumTest\MyWebTest\MyWebTest\obj\Debug\MyWebTest.csproj.CoreCompileInputs.cache
+D:\Lect\20210130\MySeleniumTest\MyWebTest\MyWebTest\obj\Debug\MyWebTest.csproj.CopyComplete
+D:\Lect\20210130\MySeleniumTest\MyWebTest\MyWebTest\obj\Debug\MyWebTest.dll
+D:\Lect\20210130\MySeleniumTest\MyWebTest\MyWebTest\obj\Debug\MyWebTest.pdb
+D:\Lect\20210130\MySeleniumTest\MyWebTest\MyWebTest\obj\Debug\MyWebTest.csprojAssemblyReference.cache
