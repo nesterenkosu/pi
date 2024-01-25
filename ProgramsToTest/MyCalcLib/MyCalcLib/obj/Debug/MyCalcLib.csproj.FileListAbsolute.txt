@@ -1,0 +1,5 @@
+D:\Lect\20220121_UnitTests_zao\ClassLib\MyCalcLib\MyCalcLib\bin\Debug\MyCalcLib.dll
+D:\Lect\20220121_UnitTests_zao\ClassLib\MyCalcLib\MyCalcLib\bin\Debug\MyCalcLib.pdb
+D:\Lect\20220121_UnitTests_zao\ClassLib\MyCalcLib\MyCalcLib\obj\Debug\MyCalcLib.csproj.CoreCompileInputs.cache
+D:\Lect\20220121_UnitTests_zao\ClassLib\MyCalcLib\MyCalcLib\obj\Debug\MyCalcLib.dll
+D:\Lect\20220121_UnitTests_zao\ClassLib\MyCalcLib\MyCalcLib\obj\Debug\MyCalcLib.pdb
