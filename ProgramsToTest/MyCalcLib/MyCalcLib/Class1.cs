@@ -18,6 +18,9 @@ namespace MyCalcLib
           System.Runtime.Serialization.StreamingContext context) : base(info, context) { }
     }
 
+
+    
+
     public class MyCalc
     {
         public static double Sum(double a, double b)
